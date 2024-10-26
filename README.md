@@ -10,7 +10,7 @@ Download from [Releases](https://github.com/r83d/MoeStick.github.io/releases/tag
 
 or
 
-Setup and compile it yourself(if you dont trust the release).
+Setup and compile it yourself.
 
 ## Features
  - Mining Macros
